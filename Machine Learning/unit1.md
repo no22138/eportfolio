@@ -9,7 +9,7 @@ has_children: true
 
 <div align="justify">
 
- Read the [Schwab (2016) article](https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/) from World Economic Forum and discuss the impact of industry 4.0 on the sector in which you are involved or interested.
+Read the [Schwab (2016) article](https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/) from World Economic Forum and discuss the impact of industry 4.0 on the sector in which you are involved or interested.
  
 </div>
 
@@ -30,10 +30,10 @@ The rapid evolution of technology has frequently outpaced the establishment of a
 ## References
 <div align="justify">
  
-- Schwab, K. (2016) The Fourth Industrial Revolution: what it means, how to respond. [online] World Economic Forum. Available from: [https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/] [Accessed 4 January 2024].
-- Amnesty International (2021) Forensic Methodology Report: How to Catch NSO Group’s Pegasus. Available from: [https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups pegasus/] [Accessed 4 January 2024].
-- Kaldani, T. &amp; Prokopets, Z. (2023) Pegasus Spyware and its impacts on human rights. Council of Europe. Available from:[https://rm.coe.int/pegasus-spyware-report-en/1680a6f5d8] [Accessed 4 January 2024].
-- The Citizen Lab (2018) HIDE AND SEEK: Tracking NSO Group’s Pegasus Spyware to Operations in 45 Countries. Available from: [https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/] [Accessed 4 January 2024].
+- Schwab, K. (2016) The Fourth Industrial Revolution: what it means, how to respond. [online] World Economic Forum. Available from: [https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/](https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/) [Accessed 4 January 2024].
+- Amnesty International (2021) Forensic Methodology Report: How to Catch NSO Group’s Pegasus. Available from: [https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/](https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/) [Accessed 4 January 2024].
+- Kaldani, T. &amp; Prokopets, Z. (2023) Pegasus Spyware and its impacts on human rights. Council of Europe. Available from:[https://rm.coe.int/pegasus-spyware-report-en/1680a6f5d8](https://rm.coe.int/pegasus-spyware-report-en/1680a6f5d8) [Accessed 4 January 2024].
+- The Citizen Lab (2018) HIDE AND SEEK: Tracking NSO Group’s Pegasus Spyware to Operations in 45 Countries. Available from: [https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/](https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/) [Accessed 4 January 2024].
 
  </div>
 

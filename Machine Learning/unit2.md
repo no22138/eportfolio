@@ -13,7 +13,7 @@ Exploratory Data Analysis (EDA): an approach for summarizing, visualizing, and b
 + Multivariate visualization:  interactions between different fields
 + Dimensionality reduction : the fields in the data that account for the most variance between observations
 
-**A Tutorial on Exploratory Data Analysis** [Link to ipynb file](Machine Learning/Supplementary_Material/Unit02 A Tutorial on Exploratory Data Analysis.ipynb)
+**A Tutorial on Exploratory Data Analysis** [Link to ipynb file](./Supplementary_Material/Unit02_A_Tutorial_on_Exploratory_Data_Analysis.ipynb)
 
 **Seminar: EDA with Auto-mpg dataset** [Link to ipynb file]()
 

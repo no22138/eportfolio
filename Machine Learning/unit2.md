@@ -15,6 +15,6 @@ Exploratory Data Analysis (EDA): an approach for summarizing, visualizing, and b
 
 **A Tutorial on Exploratory Data Analysis** [Link to ipynb file]()
 
-**Seminar: EDA with Auto-mpg dataset ** [Link to ipynb file]()
+**Seminar: EDA with Auto-mpg dataset** [Link to ipynb file]()
 
 

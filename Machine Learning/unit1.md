@@ -1,7 +1,6 @@
 ---
 title: "Unit 1"
 layout: default
-has_children: true
 ---
 # Collaborative Discussion 1: The 4th Industrial Revolution
 

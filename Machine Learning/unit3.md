@@ -27,7 +27,7 @@ Limitations of Pearson's r: It is sensitive to outliers. It can only be used to 
 Regression analysis is a set of statistical methods used to estimate relationships between a dependent variable and one or more independent variables.
 
 ## Linear Regression 
-**Ex2 linear regression** [Click to download the ipynb file](./Supplementary_Material/Unit03_Ex2_linear_regression.ipynb)
+**Ex2 linear regression** [Click to download the ipynb file](./Supplementary_Material/Unit03_Ex2_linear_regression.ipynb
 + Linear relationship
 + Observations are independent
 + Residuals (difference between predicted and observed values of dependent variables) are normally distributed

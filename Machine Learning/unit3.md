@@ -6,7 +6,7 @@ layout: default
 # Correlation and Regression
 
 ## Correlation 
-**Ex1 covariance pearson correlation** [Click to download the ipynb file](./Supplementary_Material/Unit03_Ex1_covariance_pearson_correlation.ipynb.ipynb)
+**Ex1 covariance pearson correlation** [Click to download the ipynb file](./Supplementary_Material/Unit03_Ex1_covariance_pearson_correlation.ipynb)
 
 Correlation aims to find the degree of relationship between two variables.
 

@@ -19,3 +19,11 @@ Exploratory Data Analysis (EDA): an approach for summarizing, visualizing, and b
 
 <img src="./Supplementary_Material/Images/Unit2_1.jpg">
 <img src="./Supplementary_Material/Images/Unit2_2.jpg">
+<img src="./Supplementary_Material/Images/Unit2_3.jpg">
+<img src="./Supplementary_Material/Images/Unit2_4.jpg">
+<img src="./Supplementary_Material/Images/Unit2_5.jpg">
+<img src="./Supplementary_Material/Images/Unit2_6.jpg">
+<img src="./Supplementary_Material/Images/Unit2_7.jpg">
+<img src="./Supplementary_Material/Images/Unit2_8.jpg">
+<img src="./Supplementary_Material/Images/Unit2_9.jpg">
+<img src="./Supplementary_Material/Images/Unit2_10.jpg">

@@ -3,7 +3,7 @@ title: "Module: Machine Learning"
 layout: default
 has_children: true
 ---
-
+# Machine Learning
 
 This module includes:
 + key paradigms and algorithms in machine learning.

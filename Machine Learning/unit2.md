@@ -17,4 +17,4 @@ Exploratory Data Analysis (EDA): an approach for summarizing, visualizing, and b
 
 **Seminar: EDA with Auto-mpg dataset** [Click to download the ipynb file](./Supplementary_Material/EDA_With_Auto_Mpg_Dataset.ipynb)
 
-<img src="(/Supplementary_Material/Images/Unit2/1.jpg)">
+<img src="(/Machine Learning/Supplementary_Material/Images/Unit2/1.jpg)">

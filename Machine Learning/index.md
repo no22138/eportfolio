@@ -5,6 +5,8 @@ has_children: true
 ---
 # Machine Learning
 
+Check out my [GitHub Page](https://github.com/no22138/eportfolio/)
+
 This module includes:
 + key paradigms and algorithms in machine learning.
 + understanding of data analytics based on machine learning and using Python

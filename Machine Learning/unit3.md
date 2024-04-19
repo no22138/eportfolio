@@ -31,6 +31,6 @@ Correlation does not mean causation, although they might exist at the same time.
 
 Regression analysis is a set of statistical methods used to estimate relationships between a dependent variable and one or more independent variables.
 
-## Covarience
+## Covariance
 
 .......................

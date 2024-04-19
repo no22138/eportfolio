@@ -3,9 +3,9 @@ title: "Unit 3"
 layout: default
 ---
 
-## Correlation and Regression
+# Correlation and Regression
 
-Correlation 
+## Correlation 
 Correlation aims to find the degree of relationship between two variables.
 A scatter plot is the best method to visually represent the relationship between two variables.
 

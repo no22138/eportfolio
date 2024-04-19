@@ -14,4 +14,5 @@ I am in the process of building a multidisciplinary profile in AI, policy analys
 
 ----
 Check out my [GitHub Page](https://github.com/no22138/eportfolio/)
+
 E-mail: no22138@essex.ac.uk

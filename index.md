@@ -13,4 +13,4 @@ I am in the process of building a multidisciplinary profile in AI, policy analys
 
 
 ----
-Chek out my [GitHub Page](https://github.com/no22138/eportfolio/)
+Check out my [GitHub Page](https://github.com/no22138/eportfolio/)

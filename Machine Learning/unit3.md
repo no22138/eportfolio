@@ -36,6 +36,9 @@ Regression analysis is a set of statistical methods used to estimate relationshi
 + Observations are independent
 + Residuals (difference between predicted and observed values of dependent variables) are normally distributed
 + Residuals have the same variance
+<img src="./Supplementary_Material/Images/Unit03_Ex2_page-0001.jpg">
+<img src="./Supplementary_Material/Images/Unit03_Ex2_page-0002.jpg">
+<img src="./Supplementary_Material/Images/Unit03_Ex2_page-0003.jpg">
 
 ## Multiple Linear Regression
 **Ex3 multiple linear regression** [Click to download the ipynb file](./Supplementary_Material/Unit03_Ex3_multiple_linear_regression.ipynb)

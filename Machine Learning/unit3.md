@@ -23,6 +23,10 @@ Limitation: The covariance is dependent on the variability in the data. So a lar
 
 Limitations of Pearson's r: It is sensitive to outliers. It can only be used to predict linear relationship.
 
+<img src="./Supplementary_Material/Images/Unit03_page-0001.jpg.jpg">
+<img src="./Supplementary_Material/Images/Unit03_page-0002.jpg.jpg">
+<img src="./Supplementary_Material/Images/Unit03_page-0003.jpg.jpg">
+
 ## Regression
 Regression analysis is a set of statistical methods used to estimate relationships between a dependent variable and one or more independent variables.
 

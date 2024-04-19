@@ -7,10 +7,13 @@ layout: default
 
 ## Correlation 
 Correlation aims to find the degree of relationship between two variables.
+
 A scatter plot is the best method to visually represent the relationship between two variables.
 
 Positive correlation: Both variables change in the same direction.
+
 Negative correlation: Variables change in opposite directions.
+
 Neutral: No relationship 
 
 ## Correlation vs Causation

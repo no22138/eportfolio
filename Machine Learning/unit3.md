@@ -2,7 +2,6 @@
 title: "Unit 3"
 layout: default
 ---
-
 # Correlation and Regression
 
 ## Correlation 

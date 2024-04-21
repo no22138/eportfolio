@@ -45,6 +45,9 @@ Regression analysis is a set of statistical methods used to estimate relationshi
 
 It is used to predict a correlation between more than one independent variables and a dependent variable.
 
+<img src="./Supplementary_Material/Images/Unit03_Ex3_multiple_linear_regression_page-0001.jpg">
+<img src="./Supplementary_Material/Images/Unit03_Ex3_multiple_linear_regression_page-0001.jpg">
+
 ## Classification – Logistic Regression
 Regression can also be used for classification. 
 
@@ -54,5 +57,7 @@ Logistic regression, binary classification, can predict a binary outcome (yes/no
 **Ex4 polynomial linear regression** [Click to download the ipynb file](./Supplementary_Material/Unit03_Ex4_polynomial_regression.ipynb)
 
 Polynomial regression is a form of regression analysis in which the relationship between the independent variable x and the dependent variable y is modeled as an nth degree polynomial in x.
-
+<img src="./Supplementary_Material/Images/Unit03_Ex4_page-0001.jpg">
+<img src="./Supplementary_Material/Images/Unit03_Ex4_page-0002.jpg">
+<img src="./Supplementary_Material/Images/Unit03_Ex4_page-0003.jpg">
 

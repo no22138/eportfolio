@@ -11,3 +11,8 @@ layout: default
 + K-Means clustering: K means clustering, assigns data points to one of the K clusters depending on their distance from the center of the clusters.
 ## K-Means tutorial
 **K-means demo notebook** [Click to download the ipynb file](./Supplementary_Material/Unit_5-Lecturer_Tutorial_Comment.ipynb)
+<img src="./Supplementary_Material/Images/Unit 5-page-0001.jpg">
+<img src="./Supplementary_Material/Images/Unit 5-page-0002.jpg">
+<img src="./Supplementary_Material/Images/Unit 5-page-0003.jpg">
+<img src="./Supplementary_Material/Images/Unit 5-page-0004.jpg">
+<img src="./Supplementary_Material/Images/Unit 5-page-0005.jpg">

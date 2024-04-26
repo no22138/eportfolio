@@ -13,13 +13,13 @@ layout: default
 
 <img src="./Supplementary_Material/Images/Unit07_Ex1-1.jpg">
 <img src="./Supplementary_Material/Images/Unit07_Ex1-2.jpg">
+<img src="./Supplementary_Material/Images/Unit07_Ex1-3.jpg">
 
 ## Ex2 Perceptron "And" Operator 
 [Click to download the ipynb file](./Supplementary_Material/Unit07_Ex2_perceptron_AND_operator.ipynb)
 
 <img src="./Supplementary_Material/Images/Unit07_Ex2-1.jpg">
 <img src="./Supplementary_Material/Images/Unit07_Ex2-2.jpg">
-<img src="./Supplementary_Material/Images/Unit07_Ex2-3.jpg">
 
 ## Ex3 Multilayer Perceptron
 [Click to download the ipynb file](./Supplementary_Material/Unit07_Ex3_multi_layer_Perceptron.ipynb)

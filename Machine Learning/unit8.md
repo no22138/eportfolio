@@ -27,3 +27,6 @@ It is important to point out that the generative AI tools must be  developed eth
 + ‌U.S. Patent and Trademark Office (2019) Comment Regarding Request for Comments on Intellectual Property Protection for Artificial Intelligence Innovation (Docket No. PTO–C–2019–0038). available from: [https://www.uspto.gov/sites/default/files/documents/OpenAI_RFC-84-FR-58141.pdf](https://www.uspto.gov/sites/default/files/documents/OpenAI_RFC-84-FR-58141.pdf) [Accessed 3 January 2024].
 
 ## Gradient Cost Function
+Ex4 Gradient descent cost_function [Click to download the ipynb file](./Supplementary_Material/Unit08_Ex4_gradient_descent_cost_function.ipynb)
+<img src="./Supplementary_Material/Images/Unit08_Ex4_1.jpg">
+<img src="./Supplementary_Material/Images/Unit08_Ex4_2.jpg">

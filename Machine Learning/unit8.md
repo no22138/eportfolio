@@ -1,5 +1,5 @@
 ---
-title: "Unit 8"
+title: "Unit 08"
 layout: default
 ---
 # Training an Artificial Neural Network

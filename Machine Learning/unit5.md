@@ -1,6 +1,7 @@
 ---
 title: "Unit 05"
 layout: default
+parent: Machine Learning
 ---
 
 # Clustering

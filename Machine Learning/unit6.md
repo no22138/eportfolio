@@ -1,6 +1,7 @@
 ---
 title: "Unit 06"
 layout: default
+parent: Machine Learning
 ---
 # Clustering analysis for iris dataset
 [Click to download the ipynb file](./Supplementary_Material/Unit6-Iris_Analysis.ipynb)

@@ -1,6 +1,7 @@
 ---
 title: "Unit 07"
 layout: default
+parent: Machine Learning
 ---
 
 # Introduction to Artificial Neural Networks (ANNs)

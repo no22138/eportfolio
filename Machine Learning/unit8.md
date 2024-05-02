@@ -1,6 +1,7 @@
 ---
 title: "Unit 08"
 layout: default
+parent: Machine Learning
 ---
 # Training an Artificial Neural Network
 + Collaborative Discussion 2

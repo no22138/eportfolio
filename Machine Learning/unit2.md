@@ -1,6 +1,7 @@
 ---
 title: "Unit 02"
 layout: default
+parent: Machine Learning
 ---
 
 # Exploratory Data Analysis

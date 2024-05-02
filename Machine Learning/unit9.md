@@ -1,6 +1,7 @@
 ---
 title: "Unit 09"
 layout: default
+parent: Machine Learning
 ---
 
 # Introduction to Convolutional Neural Networks (CNNs)

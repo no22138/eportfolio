@@ -1,6 +1,7 @@
 ---
 title: "Unit 03"
 layout: default
+parent: Machine Learning
 ---
 # Correlation and Regression
 

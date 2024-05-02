@@ -5,7 +5,6 @@ parent: Machine Learning
 ---
 
 # Industry 4.0 and Machine Learning
-Text...
+...
 
-# Reflective Piece
-Text...
+

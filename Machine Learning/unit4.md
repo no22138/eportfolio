@@ -1,6 +1,7 @@
 ---
 title: "Unit 04"
 layout: default
+parent: Machine Learning
 ---
 # Linear Regression with Scikit-Learn
 ## Example: Regression- Fuel Comsumption

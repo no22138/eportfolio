@@ -1,7 +1,7 @@
 ---
 title: "Unit 01"
 layout: default
-parent: Machine learning
+parent: Machine Learning
 ---
 # Collaborative Discussion 1: The 4th Industrial Revolution
 

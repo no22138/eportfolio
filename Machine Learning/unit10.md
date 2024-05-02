@@ -1,6 +1,7 @@
 ---
 title: "Unit 10"
 layout: default
+parent: Machine Learning
 ---
 
 # CNN Interactive Learning

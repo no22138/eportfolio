@@ -1,5 +1,5 @@
 ---
-title: "Unit 6"
+title: "Unit 06"
 layout: default
 ---
 # Clustering analysis for iris dataset

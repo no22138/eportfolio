@@ -1,5 +1,5 @@
 ---
-title: "Module: Machine Learning"
+title: "Machine Learning"
 layout: default
 has_children: true
 ---

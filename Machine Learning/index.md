@@ -4,9 +4,6 @@ layout: default
 has_children: true
 ---
 # Machine Learning
-
-Check out my [GitHub Page](https://github.com/no22138/eportfolio/)
-
 This module includes:
 + key paradigms and algorithms in machine learning.
 + understanding of data analytics based on machine learning and using Python
@@ -14,7 +11,6 @@ This module includes:
 + systematic analysis of complex problems using machine learning tools and algorithms.
 
 ## Mathematical Concepts and Learning Models
-
 + Exploratory Data Analysis
 + Correlation and Regression
 + Linear Regression with Scikit-Learn

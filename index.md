@@ -4,7 +4,7 @@ layout: home
 ---
 
 # N’s E-portfolio  
-MSc in Artificial Intelligence at the University of Essex
+MSc in Artificial Intelligence in UoE Online.
 
 ## About me
 I have been working in International Organizations for the past 7 years. I have been responsible for project management and reporting for multi-country projects in the field of human rights and sustainable development.

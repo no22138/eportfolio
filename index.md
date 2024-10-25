@@ -1,6 +1,7 @@
 ---
 title: About me
 layout: home
+has_toc: false
 ---
 # N’s e-portfolio  
 MSc in Artficial Intelligence (UoE)

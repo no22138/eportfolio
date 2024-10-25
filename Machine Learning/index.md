@@ -2,6 +2,7 @@
 title: "Machine Learning"
 layout: default
 has_children: true
+has_toc: false
 ---
 # Machine Learning
 This module includes:

@@ -10,8 +10,7 @@ Check out my porfolio on <a href="https://github.com/no22138/eportfolio/" target
 ## About me
 I am a civil servant in an International Organization. I have been doing project management and reporting for cooperation projects in the field of human rights and sustainable development.
 
-I am in the process of building a multidisciplinary profile in AI, policy analysis, law, and ethics. I hope to gain a better understanding of the technical challenges, risks, and opportunities; and to have the necessary technical expertise to contribute to my Organization's standard-setting work in this field.
-
+I am in the process of building a multidisciplinary profile in machine learning, policy analysis, law, and ethics. I hope to gain a better understanding of the technical challenges, risks, and opportunities; and to have the required technical expertise to contribute to my Organization's standard-setting work.
 <br>
 
 |<img src="./Image-main page.png"> | 

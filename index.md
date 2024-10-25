@@ -7,9 +7,9 @@ layout: home
 MSc in Artificial Intelligence in UoE Online.
 
 ## About me
-I have been working in International Organizations for the past 7 years. I have been responsible for project management and reporting for multi-country projects in the field of human rights and sustainable development.
+I am a civil servant working in International Organizations doing project management and reporting for cooperation projects in the field of human rights and sustainable development.
 
-I am in the process of building a multidisciplinary profile in AI, policy analysis, law, and ethics. I hope to gain a better understanding of the technical challenges, possibilities, and opportunities; and to have the necessary technical expertise to help my Organization's work in regulating the AI technology.
+I am in the process of building a multidisciplinary profile in AI, policy analysis, law, and ethics. I hope to gain a better understanding of the technical challenges, risks, and opportunities; and to have the necessary technical expertise to contribute to my Organization's work in this field.
 
 
 ----

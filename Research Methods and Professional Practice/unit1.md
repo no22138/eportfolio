@@ -1,7 +1,7 @@
 ---
 title: "Unit 01"
 layout: default
-parent: Research Methods & Prof. Prac
+parent: Research Methods & Prof. Prac.
 ---
 # Collaborative Discussion 1: ......
 

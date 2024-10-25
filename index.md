@@ -4,6 +4,7 @@ layout: home
 ---
 
 # N’s e-portfolio  
+MSc in Artficial Intelligence (UoE)
 
 ## About me
 I am a civil servant in an International Organizations doing project management and reporting for cooperation projects in the field of human rights and sustainable development.

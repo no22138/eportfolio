@@ -13,3 +13,8 @@ This module includes:
 
 ## Sub title
 + ....
+
+|<img src="./images/machine_learning_captcha.png"> | 
+|:--:| 
+| Comic by <a href="https://xkcd.com/" target="_blank">xkcd |
+

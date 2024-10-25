@@ -10,5 +10,5 @@ aux_links:
 aux_links_new_tab: true
 
 search_enabled: false
-
+heading_anchors: false
 

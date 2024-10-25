@@ -17,4 +17,4 @@ I am in the process of building a multidisciplinary profile in AI, policy analys
 
 |<img src="./Image-main page.png"> | 
 |:--:| 
-| *Comic by <a href="https://xkcd.com/" target="_blank">xkcd* |
+| Comic by <a href="https://xkcd.com/" target="_blank">xkcd |

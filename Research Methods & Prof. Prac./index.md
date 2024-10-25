@@ -1,9 +1,9 @@
 ---
-title: "Intelligent Agents"
+title: "Research Methods and Professional Practice"
 layout: default
 has_children: true
 ---
-# Intelligent Agents
+# Research Methods and Professional Practice
 This module includes:
 + ...
 

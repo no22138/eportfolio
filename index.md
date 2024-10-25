@@ -3,7 +3,7 @@ title: About me
 layout: home
 has_toc: false
 ---
-# N’s e-portfolio  
+## N’s e-portfolio  
 MSc in Artficial Intelligence (UoE)
 
 Check out my <a href="https://github.com/no22138/eportfolio/" target="_blank">**GitHub page**</a> or send me an [**e-mail**](mailto:no22138@essex.ac.uk).

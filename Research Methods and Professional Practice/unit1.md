@@ -1,7 +1,7 @@
 ---
 title: "Unit 01"
 layout: default
-parent: Intelligent Agents
+parent: Research Methods & Prof. Prac
 ---
 # Collaborative Discussion 1: ......
 

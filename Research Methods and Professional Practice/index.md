@@ -1,5 +1,5 @@
 ---
-title: "Research Methods and Professional Practice"
+title: "Research Methods & Prof. Prac."
 layout: default
 has_children: true
 ---

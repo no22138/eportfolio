@@ -10,3 +10,5 @@ aux_links:
 aux_links_new_tab: true
 
 search_enabled: false
+
+$link-color: $blue-000;

@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-# N’s E-portfolio  
+# N’s e-portfolio  
 MSc in Artificial Intelligence in UoE Online.
 
 ## About me

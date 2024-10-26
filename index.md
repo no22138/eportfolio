@@ -12,7 +12,7 @@ I am a civil servant in an International Organization. I have been doing project
 
 I am in the process of building a multidisciplinary profile in machine learning, policy analysis, law, and ethics. I hope to gain a better understanding of the technical challenges, risks, and opportunities; and to have the required technical expertise to contribute to my Organization's standard-setting work.
 <br>
-
+<br>
 |<img src="./Image-main page.png"> | 
 |:--:| 
 | Comic by <a href="https://xkcd.com/" target="_blank">xkcd |
